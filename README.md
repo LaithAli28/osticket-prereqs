@@ -46,7 +46,7 @@ Now within “c:\inetpub\wwwroot”, rename “upload” to "osTicket”
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P1.png?raw=true)
 
 </p>
 <p>
@@ -56,7 +56,7 @@ From the start menu, open Control Panel and click on "uninstall or change a prog
 
 <p>
 
- <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P2.png?raw=true)
 
 </p>
 <p>
@@ -67,7 +67,7 @@ From the start menu, open Control Panel and click on "uninstall or change a prog
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P3.png?raw=true)
 
 </p>
 <p>
@@ -78,7 +78,7 @@ MySQL is an open-source, relational database management system (RDBMS). MySQL is
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P4.png?raw=true)
 
 </p>
 <p>
@@ -88,7 +88,7 @@ Registering PHP Manager from within IIS is required for making the web server aw
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>)
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P6.png?raw=true)
 
 </p>
 <p>
@@ -100,7 +100,7 @@ Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket." This ensur
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P7.png?raw=true)
 
 
 </p>
@@ -116,23 +116,21 @@ You'll notice that not all extensions are enabled. For osTicket to work properly
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-
-HeidiSQL is an application that is required to connect to the database and perform configurations. HeidiSQL is one of the dependencies for osTicket.   
+ 
 
 </p>
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P9.png?raw=true)
 
 </p>
 <p>
-
-Start a new session within HeidiSQL in order to establish a connection to the database and rename it osTicket. To do this, we right click the blue fin icon next to "Unnamed" and select create new, then click database and name it osTicket.  
+HeidiSQL is an application that is required to connect to the database and perform configurations, and is one of the dependencies for osTicket. Start a new session within HeidiSQL in order to establish a connection to the database and rename it "osTicket". To do this, we right click the blue fin icon next to "Unnamed" and select create new, then click database and name it osTicket.  
   
 </p>
 <br />
@@ -141,7 +139,7 @@ Start a new session within HeidiSQL in order to establish a connection to the da
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt](https://github.com/LaithAli28/osticket-prereqs/blob/main/P10.png?raw=true)
 
 </p>
 <p>
